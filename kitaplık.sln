@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitaplik", "Kitaplik.csproj", "{34A951DE-4393-4359-BAC9-F3202F66ACD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34A951DE-4393-4359-BAC9-F3202F66ACD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A951DE-4393-4359-BAC9-F3202F66ACD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A951DE-4393-4359-BAC9-F3202F66ACD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A951DE-4393-4359-BAC9-F3202F66ACD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E7334D9-B6B6-41E3-808C-EA9A5DA6C1F3}
+	EndGlobalSection
+EndGlobal
